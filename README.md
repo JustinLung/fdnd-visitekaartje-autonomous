@@ -4,7 +4,7 @@
 
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐-->
-justin.student.fdnd.nl
+https://justin.student.fdnd.nl/
 
 <!-- Voeg een mooie poster visual toe 📸 -->
 ![visitekaart](https://media.discordapp.net/attachments/871761581590052925/890202288143081472/Screenshot_2021-09-22_at_13.45.58.png?width=2056&height=1138)
