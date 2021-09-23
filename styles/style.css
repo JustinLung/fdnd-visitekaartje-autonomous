@@ -21,6 +21,7 @@ main {
 }
 
 #card {
+    cursor: pointer;
     background-color: #353535;
     border-radius: 1rem;
     width: 100%;
@@ -164,7 +165,7 @@ li a {
 #card-back .circle {
     height: 180px;
     width: 180px;
-    background-image: url(../img/picture.jpeg);
+    background-image: url(../assets/picture.jpeg);
     background-position: 60% 45%;
     background-repeat: no-repeat;
     border-radius: 50%;
